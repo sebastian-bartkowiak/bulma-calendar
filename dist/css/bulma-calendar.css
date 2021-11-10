@@ -727,8 +727,6 @@
     border-color: white; }
   .datetimepicker.is-white .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: white; }
-    .datetimepicker.is-white .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-white .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: white; }
     .datetimepicker.is-white .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: white;
       color: #0a0a0a; }
@@ -754,8 +752,6 @@
     border-color: #0a0a0a; }
   .datetimepicker.is-black .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #0a0a0a; }
-    .datetimepicker.is-black .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-black .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #0a0a0a; }
     .datetimepicker.is-black .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #0a0a0a;
       color: white; }
@@ -781,8 +777,6 @@
     border-color: whitesmoke; }
   .datetimepicker.is-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: whitesmoke; }
-    .datetimepicker.is-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: whitesmoke; }
     .datetimepicker.is-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: whitesmoke;
       color: #363636; }
@@ -808,8 +802,6 @@
     border-color: #363636; }
   .datetimepicker.is-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #363636; }
-    .datetimepicker.is-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #363636; }
     .datetimepicker.is-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #363636;
       color: whitesmoke; }
@@ -835,8 +827,6 @@
     border-color: #00d1b2; }
   .datetimepicker.is-primary .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #00d1b2; }
-    .datetimepicker.is-primary .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-primary .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #00d1b2; }
     .datetimepicker.is-primary .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #00d1b2;
       color: #fff; }
@@ -862,8 +852,6 @@
     border-color: #3273dc; }
   .datetimepicker.is-link .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #3273dc; }
-    .datetimepicker.is-link .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-link .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #3273dc; }
     .datetimepicker.is-link .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #3273dc;
       color: #fff; }
@@ -889,8 +877,6 @@
     border-color: #209cee; }
   .datetimepicker.is-info .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #209cee; }
-    .datetimepicker.is-info .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-info .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #209cee; }
     .datetimepicker.is-info .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #209cee;
       color: #fff; }
@@ -916,8 +902,6 @@
     border-color: #23d160; }
   .datetimepicker.is-success .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #23d160; }
-    .datetimepicker.is-success .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-success .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #23d160; }
     .datetimepicker.is-success .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #23d160;
       color: #fff; }
@@ -943,8 +927,6 @@
     border-color: #ffdd57; }
   .datetimepicker.is-warning .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #ffdd57; }
-    .datetimepicker.is-warning .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-warning .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #ffdd57; }
     .datetimepicker.is-warning .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #ffdd57;
       color: rgba(0, 0, 0, 0.7); }
@@ -970,8 +952,6 @@
     border-color: #ff3860; }
   .datetimepicker.is-danger .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #ff3860; }
-    .datetimepicker.is-danger .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-danger .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #ff3860; }
     .datetimepicker.is-danger .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #ff3860;
       color: #fff; }
@@ -997,8 +977,6 @@
     border-color: #121212; }
   .datetimepicker.is-black-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #121212; }
-    .datetimepicker.is-black-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-black-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #121212; }
     .datetimepicker.is-black-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #121212;
       color: #fff; }
@@ -1024,8 +1002,6 @@
     border-color: #242424; }
   .datetimepicker.is-black-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #242424; }
-    .datetimepicker.is-black-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-black-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #242424; }
     .datetimepicker.is-black-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #242424;
       color: #fff; }
@@ -1051,8 +1027,6 @@
     border-color: #363636; }
   .datetimepicker.is-grey-darker .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #363636; }
-    .datetimepicker.is-grey-darker .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-grey-darker .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #363636; }
     .datetimepicker.is-grey-darker .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #363636;
       color: #fff; }
@@ -1078,8 +1052,6 @@
     border-color: #4a4a4a; }
   .datetimepicker.is-grey-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #4a4a4a; }
-    .datetimepicker.is-grey-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-grey-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #4a4a4a; }
     .datetimepicker.is-grey-dark .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #4a4a4a;
       color: #fff; }
@@ -1105,8 +1077,6 @@
     border-color: #7a7a7a; }
   .datetimepicker.is-grey .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #7a7a7a; }
-    .datetimepicker.is-grey .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-grey .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #7a7a7a; }
     .datetimepicker.is-grey .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #7a7a7a;
       color: #fff; }
@@ -1132,8 +1102,6 @@
     border-color: #b5b5b5; }
   .datetimepicker.is-grey-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #b5b5b5; }
-    .datetimepicker.is-grey-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-grey-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #b5b5b5; }
     .datetimepicker.is-grey-light .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #b5b5b5;
       color: #fff; }
@@ -1159,8 +1127,6 @@
     border-color: #dbdbdb; }
   .datetimepicker.is-grey-lighter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #dbdbdb; }
-    .datetimepicker.is-grey-lighter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-grey-lighter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #dbdbdb; }
     .datetimepicker.is-grey-lighter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #dbdbdb;
       color: rgba(0, 0, 0, 0.7); }
@@ -1186,8 +1152,6 @@
     border-color: whitesmoke; }
   .datetimepicker.is-white-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: whitesmoke; }
-    .datetimepicker.is-white-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-white-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: whitesmoke; }
     .datetimepicker.is-white-ter .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: whitesmoke;
       color: rgba(0, 0, 0, 0.7); }
@@ -1213,8 +1177,6 @@
     border-color: #fafafa; }
   .datetimepicker.is-white-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range {
     background: #fafafa; }
-    .datetimepicker.is-white-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range:before, .datetimepicker.is-white-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range::before {
-      background: #fafafa; }
     .datetimepicker.is-white-bis .datepicker-body .datepicker-dates .datepicker-days .datepicker-date.datepicker-range .date-item {
       background-color: #fafafa;
       color: rgba(0, 0, 0, 0.7); }
@@ -1231,6 +1193,16 @@
   display: flex;
   width: 100%;
   height: 2.5rem; }
+  .datetimepicker-dummy .datetimepicker-dummy-left-icon {
+    font-size: 1.5rem;
+    height: 1.75rem;
+    margin: .25rem 0 0 .4rem;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1.75rem;
+    z-index: 1; }
   .datetimepicker-dummy .datetimepicker-clear-button {
     background: transparent;
     border: 0;
@@ -1238,11 +1210,9 @@
     cursor: pointer;
     font-weight: 400;
     outline: 0;
-    -webkit-transform: rotate(45deg);
-            transform: rotate(45deg);
     font-size: 1.5rem;
     height: 1.75rem;
-    margin: .4rem .2rem 0 0;
+    margin: .4rem .25rem 0 0;
     padding: 0;
     position: absolute;
     right: 0;
@@ -1294,9 +1264,6 @@
     .datetimepicker-dummy .datetimepicker-dummy-wrapper[readonly] {
       box-shadow: none; }
     .datetimepicker-dummy .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy .datetimepicker-dummy-wrapper::before {
-      content: '';
-      mask: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNjAgNjAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9ImN1cnJlbnRjb2xvciIgZD0iTTU3LDRoLTdWMWMwLTAuNTUzLTAuNDQ3LTEtMS0xaC03Yy0wLjU1MywwLTEsMC40NDctMSwxdjNIMTlWMWMwLTAuNTUzLTAuNDQ3LTEtMS0xaC03Yy0wLjU1MywwLTEsMC40NDctMSwxdjNIM0MyLjQ0Nyw0LDIsNC40NDcsMiw1djExdjQzYzAsMC41NTMsMC40NDcsMSwxLDFoNTRjMC41NTMsMCwxLTAuNDQ3LDEtMVYxNlY1QzU4LDQuNDQ3LDU3LjU1Myw0LDU3LDR6IE00MywyaDV2M3YzaC01VjVWMnogTTEyLDJoNXYzdjNoLTVWNVYyeiBNNCw2aDZ2M2MwLDAuNTUzLDAuNDQ3LDEsMSwxaDdjMC41NTMsMCwxLTAuNDQ3LDEtMVY2aDIydjNjMCwwLjU1MywwLjQ0NywxLDEsMWg3YzAuNTUzLDAsMS0wLjQ0NywxLTFWNmg2djlINFY2ek00LDU4VjE3aDUydjQxSDR6Ii8+PHBhdGggZmlsbD0iY3VycmVudGNvbG9yIiBkPSJNMzgsMjNoLTdoLTJoLTdoLTJoLTl2OXYydjd2MnY5aDloMmg3aDJoN2gyaDl2LTl2LTJ2LTd2LTJ2LTloLTlIMzh6TTMxLDI1aDd2N2gtN1YyNXpNMzgsNDFoLTd2LTdoN1Y0MXpNMjIsMzRoN3Y3aC03VjM0ek0yMiwyNWg3djdoLTdWMjV6TTEzLDI1aDd2N2gtN1YyNXpNMTMsMzRoN3Y3aC03VjM0ek0yMCw1MGgtN3YtN2g3VjUwek0yOSw1MGgtN3YtN2g3VjUweiBNMzgsNTBoLTd2LTdoN1Y1MHogTTQ3LDUwaC03di03aDdWNTB6IE00Nyw0MWgtN3YtN2g3VjQxek00NywyNXY3aC03di03SDQ3eiIvPjwvZz48L3N2Zz4=);
-      -webkit-mask: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNjAgNjAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9ImN1cnJlbnRjb2xvciIgZD0iTTU3LDRoLTdWMWMwLTAuNTUzLTAuNDQ3LTEtMS0xaC03Yy0wLjU1MywwLTEsMC40NDctMSwxdjNIMTlWMWMwLTAuNTUzLTAuNDQ3LTEtMS0xaC03Yy0wLjU1MywwLTEsMC40NDctMSwxdjNIM0MyLjQ0Nyw0LDIsNC40NDcsMiw1djExdjQzYzAsMC41NTMsMC40NDcsMSwxLDFoNTRjMC41NTMsMCwxLTAuNDQ3LDEtMVYxNlY1QzU4LDQuNDQ3LDU3LjU1Myw0LDU3LDR6IE00MywyaDV2M3YzaC01VjVWMnogTTEyLDJoNXYzdjNoLTVWNVYyeiBNNCw2aDZ2M2MwLDAuNTUzLDAuNDQ3LDEsMSwxaDdjMC41NTMsMCwxLTAuNDQ3LDEtMVY2aDIydjNjMCwwLjU1MywwLjQ0NywxLDEsMWg3YzAuNTUzLDAsMS0wLjQ0NywxLTFWNmg2djlINFY2ek00LDU4VjE3aDUydjQxSDR6Ii8+PHBhdGggZmlsbD0iY3VycmVudGNvbG9yIiBkPSJNMzgsMjNoLTdoLTJoLTdoLTJoLTl2OXYydjd2MnY5aDloMmg3aDJoN2gyaDl2LTl2LTJ2LTd2LTJ2LTloLTlIMzh6TTMxLDI1aDd2N2gtN1YyNXpNMzgsNDFoLTd2LTdoN1Y0MXpNMjIsMzRoN3Y3aC03VjM0ek0yMiwyNWg3djdoLTdWMjV6TTEzLDI1aDd2N2gtN1YyNXpNMTMsMzRoN3Y3aC03VjM0ek0yMCw1MGgtN3YtN2g3VjUwek0yOSw1MGgtN3YtN2g3VjUweiBNMzgsNTBoLTd2LTdoN1Y1MHogTTQ3LDUwaC03di03aDdWNTB6IE00Nyw0MWgtN3YtN2g3VjQxek00NywyNXY3aC03di03SDQ3eiIvPjwvZz48L3N2Zz4=);
       position: absolute;
       top: .65rem;
       left: .75rem;
@@ -1312,16 +1279,12 @@
       .datetimepicker-dummy .datetimepicker-dummy-wrapper .datetimepicker-dummy-input:first-child {
         text-indent: 2.5rem; }
       .datetimepicker-dummy .datetimepicker-dummy-wrapper .datetimepicker-dummy-input.is-datetimepicker-range {
-        background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjE4IiB2aWV3Qm94PSIwIDAgOCAxOCI+CiAgICA8cGF0aCBmaWxsPSIjOTU5OUFBIiBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik0uMTE5LjcxOGw3LjE1OCA3LjQwNy0uMDMzLS41NTEtNi43MzcgOC44ODlhLjQyNS40MjUgMCAwIDAgLjA4LjU5My40Mi40MiAwIDAgMCAuNTktLjA4bDYuNzM3LTguODg5YS40MjUuNDI1IDAgMCAwLS4wMzMtLjU1MUwuNzIzLjEyOEEuNDIuNDIgMCAwIDAgLjEyOC4xMmEuNDI1LjQyNSAwIDAgMC0uMDA5LjU5OHoiLz4KPC9zdmc+Cg==) no-repeat 100%/8px;
         max-width: 50%; }
     .datetimepicker-dummy .datetimepicker-dummy-wrapper input {
       background: transparent;
       outline: none;
       word-spacing: .5rem;
       border: 0; }
-
-.datetimepicker-dummy.is-white:before, .datetimepicker-dummy.is-white::before {
-  background-color: white; }
 
 .datetimepicker-dummy.is-white .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-white .datetimepicker-dummy-wrapper::before {
   background-color: white; }
@@ -1330,11 +1293,8 @@
   border-color: white;
   box-shadow: 0 0 0 0.125em rgba(255, 255, 255, 0.25); }
 
-.datetimepicker-dummy.is-white .datetimepicker-clear-button {
+.datetimepicker-dummy.is-white .datetimepicker-dummy-left-icon {
   color: white; }
-
-.datetimepicker-dummy.is-black:before, .datetimepicker-dummy.is-black::before {
-  background-color: #0a0a0a; }
 
 .datetimepicker-dummy.is-black .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-black .datetimepicker-dummy-wrapper::before {
   background-color: #0a0a0a; }
@@ -1343,11 +1303,8 @@
   border-color: #0a0a0a;
   box-shadow: 0 0 0 0.125em rgba(10, 10, 10, 0.25); }
 
-.datetimepicker-dummy.is-black .datetimepicker-clear-button {
+.datetimepicker-dummy.is-black .datetimepicker-dummy-left-icon {
   color: #0a0a0a; }
-
-.datetimepicker-dummy.is-light:before, .datetimepicker-dummy.is-light::before {
-  background-color: whitesmoke; }
 
 .datetimepicker-dummy.is-light .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-light .datetimepicker-dummy-wrapper::before {
   background-color: whitesmoke; }
@@ -1356,11 +1313,8 @@
   border-color: whitesmoke;
   box-shadow: 0 0 0 0.125em rgba(245, 245, 245, 0.25); }
 
-.datetimepicker-dummy.is-light .datetimepicker-clear-button {
+.datetimepicker-dummy.is-light .datetimepicker-dummy-left-icon {
   color: whitesmoke; }
-
-.datetimepicker-dummy.is-dark:before, .datetimepicker-dummy.is-dark::before {
-  background-color: #363636; }
 
 .datetimepicker-dummy.is-dark .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-dark .datetimepicker-dummy-wrapper::before {
   background-color: #363636; }
@@ -1369,11 +1323,8 @@
   border-color: #363636;
   box-shadow: 0 0 0 0.125em rgba(54, 54, 54, 0.25); }
 
-.datetimepicker-dummy.is-dark .datetimepicker-clear-button {
+.datetimepicker-dummy.is-dark .datetimepicker-dummy-left-icon {
   color: #363636; }
-
-.datetimepicker-dummy.is-primary:before, .datetimepicker-dummy.is-primary::before {
-  background-color: #00d1b2; }
 
 .datetimepicker-dummy.is-primary .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-primary .datetimepicker-dummy-wrapper::before {
   background-color: #00d1b2; }
@@ -1382,11 +1333,8 @@
   border-color: #00d1b2;
   box-shadow: 0 0 0 0.125em rgba(0, 209, 178, 0.25); }
 
-.datetimepicker-dummy.is-primary .datetimepicker-clear-button {
+.datetimepicker-dummy.is-primary .datetimepicker-dummy-left-icon {
   color: #00d1b2; }
-
-.datetimepicker-dummy.is-link:before, .datetimepicker-dummy.is-link::before {
-  background-color: #3273dc; }
 
 .datetimepicker-dummy.is-link .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-link .datetimepicker-dummy-wrapper::before {
   background-color: #3273dc; }
@@ -1395,11 +1343,8 @@
   border-color: #3273dc;
   box-shadow: 0 0 0 0.125em rgba(50, 115, 220, 0.25); }
 
-.datetimepicker-dummy.is-link .datetimepicker-clear-button {
+.datetimepicker-dummy.is-link .datetimepicker-dummy-left-icon {
   color: #3273dc; }
-
-.datetimepicker-dummy.is-info:before, .datetimepicker-dummy.is-info::before {
-  background-color: #209cee; }
 
 .datetimepicker-dummy.is-info .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-info .datetimepicker-dummy-wrapper::before {
   background-color: #209cee; }
@@ -1408,11 +1353,8 @@
   border-color: #209cee;
   box-shadow: 0 0 0 0.125em rgba(32, 156, 238, 0.25); }
 
-.datetimepicker-dummy.is-info .datetimepicker-clear-button {
+.datetimepicker-dummy.is-info .datetimepicker-dummy-left-icon {
   color: #209cee; }
-
-.datetimepicker-dummy.is-success:before, .datetimepicker-dummy.is-success::before {
-  background-color: #23d160; }
 
 .datetimepicker-dummy.is-success .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-success .datetimepicker-dummy-wrapper::before {
   background-color: #23d160; }
@@ -1421,11 +1363,8 @@
   border-color: #23d160;
   box-shadow: 0 0 0 0.125em rgba(35, 209, 96, 0.25); }
 
-.datetimepicker-dummy.is-success .datetimepicker-clear-button {
+.datetimepicker-dummy.is-success .datetimepicker-dummy-left-icon {
   color: #23d160; }
-
-.datetimepicker-dummy.is-warning:before, .datetimepicker-dummy.is-warning::before {
-  background-color: #ffdd57; }
 
 .datetimepicker-dummy.is-warning .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-warning .datetimepicker-dummy-wrapper::before {
   background-color: #ffdd57; }
@@ -1434,11 +1373,8 @@
   border-color: #ffdd57;
   box-shadow: 0 0 0 0.125em rgba(255, 221, 87, 0.25); }
 
-.datetimepicker-dummy.is-warning .datetimepicker-clear-button {
+.datetimepicker-dummy.is-warning .datetimepicker-dummy-left-icon {
   color: #ffdd57; }
-
-.datetimepicker-dummy.is-danger:before, .datetimepicker-dummy.is-danger::before {
-  background-color: #ff3860; }
 
 .datetimepicker-dummy.is-danger .datetimepicker-dummy-wrapper:before, .datetimepicker-dummy.is-danger .datetimepicker-dummy-wrapper::before {
   background-color: #ff3860; }
@@ -1447,61 +1383,34 @@
   border-color: #ff3860;
   box-shadow: 0 0 0 0.125em rgba(255, 56, 96, 0.25); }
 
-.datetimepicker-dummy.is-danger .datetimepicker-clear-button {
+.datetimepicker-dummy.is-danger .datetimepicker-dummy-left-icon {
   color: #ff3860; }
 
-.datetimepicker-dummy.is-black-bis:before, .datetimepicker-dummy.is-black-bis::before {
-  background-color: #121212; }
-
-.datetimepicker-dummy.is-black-bis .datetimepicker-clear-button {
+.datetimepicker-dummy.is-black-bis .datetimepicker-dummy-left-icon {
   color: #121212; }
 
-.datetimepicker-dummy.is-black-ter:before, .datetimepicker-dummy.is-black-ter::before {
-  background-color: #242424; }
-
-.datetimepicker-dummy.is-black-ter .datetimepicker-clear-button {
+.datetimepicker-dummy.is-black-ter .datetimepicker-dummy-left-icon {
   color: #242424; }
 
-.datetimepicker-dummy.is-grey-darker:before, .datetimepicker-dummy.is-grey-darker::before {
-  background-color: #363636; }
-
-.datetimepicker-dummy.is-grey-darker .datetimepicker-clear-button {
+.datetimepicker-dummy.is-grey-darker .datetimepicker-dummy-left-icon {
   color: #363636; }
 
-.datetimepicker-dummy.is-grey-dark:before, .datetimepicker-dummy.is-grey-dark::before {
-  background-color: #4a4a4a; }
-
-.datetimepicker-dummy.is-grey-dark .datetimepicker-clear-button {
+.datetimepicker-dummy.is-grey-dark .datetimepicker-dummy-left-icon {
   color: #4a4a4a; }
 
-.datetimepicker-dummy.is-grey:before, .datetimepicker-dummy.is-grey::before {
-  background-color: #7a7a7a; }
-
-.datetimepicker-dummy.is-grey .datetimepicker-clear-button {
+.datetimepicker-dummy.is-grey .datetimepicker-dummy-left-icon {
   color: #7a7a7a; }
 
-.datetimepicker-dummy.is-grey-light:before, .datetimepicker-dummy.is-grey-light::before {
-  background-color: #b5b5b5; }
-
-.datetimepicker-dummy.is-grey-light .datetimepicker-clear-button {
+.datetimepicker-dummy.is-grey-light .datetimepicker-dummy-left-icon {
   color: #b5b5b5; }
 
-.datetimepicker-dummy.is-grey-lighter:before, .datetimepicker-dummy.is-grey-lighter::before {
-  background-color: #dbdbdb; }
-
-.datetimepicker-dummy.is-grey-lighter .datetimepicker-clear-button {
+.datetimepicker-dummy.is-grey-lighter .datetimepicker-dummy-left-icon {
   color: #dbdbdb; }
 
-.datetimepicker-dummy.is-white-ter:before, .datetimepicker-dummy.is-white-ter::before {
-  background-color: whitesmoke; }
-
-.datetimepicker-dummy.is-white-ter .datetimepicker-clear-button {
+.datetimepicker-dummy.is-white-ter .datetimepicker-dummy-left-icon {
   color: whitesmoke; }
 
-.datetimepicker-dummy.is-white-bis:before, .datetimepicker-dummy.is-white-bis::before {
-  background-color: #fafafa; }
-
-.datetimepicker-dummy.is-white-bis .datetimepicker-clear-button {
+.datetimepicker-dummy.is-white-bis .datetimepicker-dummy-left-icon {
   color: #fafafa; }
 
 .datetimepicker-wrapper.modal .datetimepicker {
