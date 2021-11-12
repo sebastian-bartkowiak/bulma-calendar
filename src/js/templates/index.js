@@ -3,9 +3,9 @@ export default (data) => {
     <div class="datetimepicker-dummy is-hidden">
       <div class="datetimepicker-dummy-left-icon">${data.type.startsWith('time')?data.icons.time:data.icons.date}</div>
       <div class="datetimepicker-dummy-wrapper">
-        <input placeholder="${data.labelFrom}" readonly="readonly" class="datetimepicker-dummy-input${data.isRange ? ' is-datetimepicker-range' : ''}" type="text">
+        <input placeholder="${data.labelFrom}" readonly="readonly" class="datetimepicker-dummy-input datetimepicker-dummy-input-start${data.isRange ? ' is-datetimepicker-range' : ''}" type="text">
         ${data.isRange ? `<div class="datetimepicker-dummy-range-icon">${data.icons.rangeArrow}</div>` : ''}
-        ${data.isRange ? `<input placeholder="${data.labelTo}" readonly="readonly" class="datetimepicker-dummy-input" type="text">`: ''}
+        ${data.isRange ? `<input placeholder="${data.labelTo}" readonly="readonly" class="datetimepicker-dummy-input datetimepicker-dummy-input-end" type="text">`: ''}
       </div>
       <button class="datetimepicker-clear-button" type="button">${data.icons.clear}</button>
     </div>

@@ -786,8 +786,8 @@ export default class bulmaCalendar extends EventEmitter {
             dummy:     {
                 container: datetimePickerNode.querySelector('.datetimepicker-dummy'),
                 wrapper:   datetimePickerNode.querySelector('.datetimepicker-dummy-wrapper'),
-                dummy_1:   datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input:nth-child(1)'),
-                dummy_2:   datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input:nth-child(2)'),
+                dummy_1:   datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input.datetimepicker-dummy-input-start'),
+                dummy_2:   datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input.datetimepicker-dummy-input-end'),
                 clear:     datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-clear-button'),
             },
             calendar:  datetimePickerNode.querySelector('.datetimepicker'),
