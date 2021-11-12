@@ -46448,8 +46448,8 @@ var bulmaCalendar = function (_EventEmitter) {
                 dummy: {
                     container: datetimePickerNode.querySelector('.datetimepicker-dummy'),
                     wrapper: datetimePickerNode.querySelector('.datetimepicker-dummy-wrapper'),
-                    dummy_1: datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input:nth-child(1)'),
-                    dummy_2: datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input:nth-child(2)'),
+                    dummy_1: datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input.datetimepicker-dummy-input-start'),
+                    dummy_2: datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-dummy-input.datetimepicker-dummy-input-end'),
                     clear: datetimePickerNode.querySelector('.datetimepicker-dummy .datetimepicker-clear-button')
                 },
                 calendar: datetimePickerNode.querySelector('.datetimepicker'),
@@ -64611,7 +64611,7 @@ var defaultOptions = {
 
 "use strict";
 /* harmony default export */ __webpack_exports__["a"] = (function (data) {
-  return '<div id=\'' + data.id + '\'>\n    <div class="datetimepicker-dummy is-hidden">\n      <div class="datetimepicker-dummy-left-icon">' + (data.type.startsWith('time') ? data.icons.time : data.icons.date) + '</div>\n      <div class="datetimepicker-dummy-wrapper">\n        <input placeholder="' + data.labelFrom + '" readonly="readonly" class="datetimepicker-dummy-input' + (data.isRange ? ' is-datetimepicker-range' : '') + '" type="text">\n        ' + (data.isRange ? '<div class="datetimepicker-dummy-range-icon">' + data.icons.rangeArrow + '</div>' : '') + '\n        ' + (data.isRange ? '<input placeholder="' + data.labelTo + '" readonly="readonly" class="datetimepicker-dummy-input" type="text">' : '') + '\n      </div>\n      <button class="datetimepicker-clear-button" type="button">' + data.icons.clear + '</button>\n    </div>\n    <div class="datetimepicker-wrapper' + (data.displayMode === 'dialog' ? ' modal' : '') + '">\n        <div class="modal-background' + (data.displayMode === 'dialog' ? '' : ' is-hidden') + '"></div>\n        <div class="datetimepicker">\n          <div class="datetimepicker-container' + (data.headerPosition === 'top' ? '' : ' has-header-bottom') + '"></div>\n        </div>\n    </div>\n  </div>';
+  return '<div id=\'' + data.id + '\'>\n    <div class="datetimepicker-dummy is-hidden">\n      <div class="datetimepicker-dummy-left-icon">' + (data.type.startsWith('time') ? data.icons.time : data.icons.date) + '</div>\n      <div class="datetimepicker-dummy-wrapper">\n        <input placeholder="' + data.labelFrom + '" readonly="readonly" class="datetimepicker-dummy-input datetimepicker-dummy-input-start' + (data.isRange ? ' is-datetimepicker-range' : '') + '" type="text">\n        ' + (data.isRange ? '<div class="datetimepicker-dummy-range-icon">' + data.icons.rangeArrow + '</div>' : '') + '\n        ' + (data.isRange ? '<input placeholder="' + data.labelTo + '" readonly="readonly" class="datetimepicker-dummy-input datetimepicker-dummy-input-end" type="text">' : '') + '\n      </div>\n      <button class="datetimepicker-clear-button" type="button">' + data.icons.clear + '</button>\n    </div>\n    <div class="datetimepicker-wrapper' + (data.displayMode === 'dialog' ? ' modal' : '') + '">\n        <div class="modal-background' + (data.displayMode === 'dialog' ? '' : ' is-hidden') + '"></div>\n        <div class="datetimepicker">\n          <div class="datetimepicker-container' + (data.headerPosition === 'top' ? '' : ' has-header-bottom') + '"></div>\n        </div>\n    </div>\n  </div>';
 });
 
 /***/ }),
